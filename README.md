@@ -1,2 +1,2 @@
 # spotifyApp
-Spotify Api to help me orgnaize and find music 
+Spotify Api to help me organize and find music 
