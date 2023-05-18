@@ -1,0 +1,22 @@
+{
+  "name": "spotifyapp",
+  "version": "1.0.0",
+  "description": "spotify api app",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davissmith1/spotifyApp.git"
+  },
+  "author": "davissmith1",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/davissmith1/spotifyApp/issues"
+  },
+  "homepage": "https://github.com/davissmith1/spotifyApp#readme"
+}
