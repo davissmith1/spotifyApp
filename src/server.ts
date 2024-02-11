@@ -1,10 +1,11 @@
 import express, {Express, Request, Response} from 'express';
 import login from './auth';
+import test from './auth';
 
 const app: Express = express();
 const port = 3000;
 
-app.use('/', login)
+app.use('/', login);
 
 app.get('/', (req: Request, res: Response)=>{
     res.send('Hello World!');
